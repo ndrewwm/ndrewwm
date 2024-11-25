@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in: math, statistics, data visualization, data engineering.
 
-- 🌱 I’m currently learning: python, julia, and completing a math degree at Boise State University.
+- 🌱 I’m currently learning: TypeScript, Julia, and completing a math degree at Boise State University.
 
 <!---
 ndrewwm/ndrewwm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
